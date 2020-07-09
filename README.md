@@ -1,4 +1,4 @@
-# welcome to PhanDuyLong repository
+# Welcome to PhanDuyLong repository
 This repository contains the source of a simple Java app. It is used to demonstrate the CI - Continous Integration process, a part of Introduction to Software Engineering course at FPT University HCMC Campus
 ## You will find this repo:
 * The MathUtil class (consists of multiple Math methods)
@@ -8,4 +8,5 @@ This repository contains the source of a simple Java app. It is used to demonstr
 ## Contact me via
 1. [GitHub](https://github.com/PhanDuyLong)
 2. [Facebook](https://www.facebook.com/duylong.phan.98)
+3. [Email](phanduylong2015@gmail.com)
 ####  © 2020 by Phan Duy Long
