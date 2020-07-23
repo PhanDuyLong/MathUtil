@@ -17,6 +17,7 @@ public class MathUti {
     //vì tăng kết quả nhanh mà int chỉ tối đa 2 tỷ 1, phải để long đỡ tràn kết quả
     //mình chỉ nên tính n<=15, vì 20! to lắm
     public static long computeFactorial(int n){
+        if(n <  0 || n > 15) throw new IllegalArgumentException("Invalid Argument: n must be >= 0 and <= 15");
         long result = 1;
         for (int i = 1; i <= n; i++) {
             result *= i;
